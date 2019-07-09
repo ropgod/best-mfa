@@ -1,4 +1,5 @@
 <?php
+	// Author: god (aka ropgod)
     $PAGE = "MFA";
     include("includes/db.php");
     include("includes/header.php");
